@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">JigsawGame</string>
+
+    <string name="difficulty">难度</string>
+    <string name="choose_difficulty">3 * 3</string>
+    <string name="popupWindow">选择难度</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="time">记时</string>
+    <string name="stepNumber">记步</string>
+    <string name="original_img">原图</string>
+    <string name="reset">重置</string>
+    <string name="back">返回</string>
+</resources>
